@@ -619,7 +619,7 @@ vector<vertex<T>> pot_vect;
 		pot_vect.push_back({u_id, tree.vertex_idweight[u_id]}); //3. visit nodes
 	}
 
-	return iot_vect; 
+	return pot_vect; 
 }
 
 //SORTING ALGORITHM
