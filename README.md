@@ -1,3 +1,4 @@
 # Directed-graph
-Di-graph with Algorithms
-Traversal tree exploration
+<h2>About</h2>
+Di-graph with Algorithms. <br>
+Traversal tree exploration.
